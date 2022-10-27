@@ -1,1 +1,1 @@
-# lambda-api-template
+# [LAMBDA TEMPLATE]

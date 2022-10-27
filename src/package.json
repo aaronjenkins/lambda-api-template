@@ -1,0 +1,8 @@
+{
+  "name": "[LAMBDA TEMPLATE]",
+  "version": "2.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.92"
+  }
+}
